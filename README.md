@@ -16,7 +16,7 @@ string[] fileArray = Directory.GetFiles(path, "*chapters.txt");
 
 and then change the part in double quotes to "*.txt", or whatever you prefer...
 
-I know there's not much to this, but I only pushed it up here to keep from destroying as i tinker with the local copy. lol.
+I know there's not much to this, but I only pushed it up here to keep from destroying it as I tinker with the local copy. lol.
 
 Plan to make it better over time. :-)
 
