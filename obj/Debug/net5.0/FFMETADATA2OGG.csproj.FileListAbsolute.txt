@@ -1,0 +1,16 @@
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.exe
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.deps.json
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.runtimeconfig.json
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.runtimeconfig.dev.json
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.dll
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\ref\FFMETADATA2OGG.dll
+C:\Users\MusicMaker\FFMETADATA2OGG\bin\Debug\net5.0\FFMETADATA2OGG.pdb
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.csproj.AssemblyReference.cache
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.AssemblyInfoInputs.cache
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.AssemblyInfo.cs
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.csproj.CoreCompileInputs.cache
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.dll
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\ref\FFMETADATA2OGG.dll
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.pdb
+C:\Users\MusicMaker\FFMETADATA2OGG\obj\Debug\net5.0\FFMETADATA2OGG.genruntimeconfig.cache
